@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 17
+  controlID: 147
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 106
+  controlID: 62
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 989
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 1
-  controlID: 15
+  controlID: 145
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 16
+  controlID: 146
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -462,7 +462,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -475,7 +475,7 @@ MonoBehaviour:
       y: 21
       width: 1195
       height: 432
-    m_Scale: {x: 0.4, y: 0.4}
+    m_Scale: {x: 0.41944444, y: 0.4194444}
     m_Translation: {x: 597.5, y: 216}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -483,12 +483,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1493.75
-      y: -540
-      width: 2987.5
-      height: 1080
+      x: -1424.5033
+      y: -514.9669
+      width: 2849.0066
+      height: 1029.9338
     m_MinimalGUI: 1
-  m_defaultScale: 0.4
+  m_defaultScale: 0.41944444
   m_LastWindowPixelSize: {x: 1195, y: 453}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -531,9 +531,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.82374, y: -10.014935, z: -6.1830845}
+    m_Target: {x: 19.508535, y: -9.959947, z: -24.671467}
     speed: 2
-    m_Value: {x: -0.82374, y: -10.014935, z: -6.1830845}
+    m_Value: {x: 19.508535, y: -9.959947, z: -24.671467}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -580,13 +580,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.28964502, y: 0.20245038, z: -0.06283656, w: -0.93338156}
+    m_Target: {x: 0.17011565, y: 0.8231577, z: -0.32058638, w: 0.4367288}
     speed: 2
-    m_Value: {x: -0.28954607, y: 0.20384717, z: -0.06327, w: -0.93306285}
+    m_Value: {x: 0.17076746, y: 0.8226612, z: -0.32181504, w: 0.43646535}
   m_Size:
-    m_Target: 12.096334
+    m_Target: 11.481962
     speed: 2
-    m_Value: 11.575439
+    m_Value: 11.481962
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -639,9 +639,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5a480000
+      m_SelectedIDs: c8400000
       m_LastClickedID: 0
-      m_ExpandedIDs: a8f5ffff
+      m_ExpandedIDs: 04f5ffff72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -717,7 +717,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d8420000
     m_LastClickedID: 17112
-    m_ExpandedIDs: 000000002a4800002c4800002e48000030480000
+    m_ExpandedIDs: 000000006c4000006e4000007040000072400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -745,7 +745,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000002a4800002c480000304800004a480000
+    m_ExpandedIDs: ffffffff000000006c4000006e4000007040000072400000be400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
